@@ -1,0 +1,19 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Categories=Utility;
+Comment[en_US]=A simple font tester.
+Comment=A simple font tester.
+Exec=font-tester
+GenericName[en_US]=Font Tester
+GenericName=Font Tester
+Icon=preferences-desktop-font
+MimeType=
+Name[en_US]=Font Tester
+Name=Font Tester
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+TryExec=font-tester
+Type=Application
+Version=1.0
